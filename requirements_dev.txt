@@ -1,0 +1,11 @@
+pandas
+matplotlib
+hyperopt
+scikit-learn
+lightgbm
+xgboost
+tensorflow
+tox
+pytest
+pytest-cov
+mypy
